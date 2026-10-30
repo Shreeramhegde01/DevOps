@@ -48,12 +48,6 @@ This repository contains completed exercises and assignments from the DevOps Lab
 | 2 | TreasureBook | DevOps pipeline for a book application |
 | 3 | VisualCraft AI | AI-powered artistic application with DevOps |
 
-## BMS Assessment 1 Options
-
-| Option | Project | Requirements Covered |
-|--------|---------|----------------------|
-| A | Dockerized CRUD Application | Flask CRUD, MongoDB volume, Docker SDK networking and health restart |
-| B | Secured Auth Application | Registration/login, MongoDB volume, AppArmor, Docker SDK verification and health monitoring |
 
 ## Tools & Technologies Used
 
